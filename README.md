@@ -25,3 +25,9 @@ https://www.pling.com/p/1813228/
 Sonra telefonu fastboot moda alıyoruz ve aşağıdaki komutlarını yazıp entera basıyoruz.
 
 
+...
+
+fastboot flash recovery crdroid_recovery.img
+
+...
+

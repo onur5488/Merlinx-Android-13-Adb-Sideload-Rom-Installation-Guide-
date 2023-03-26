@@ -54,3 +54,4 @@ adb sideload ProjectElixir_3.4_merlinx-13.0-20221228-1840-OFFICIAL.zip
 
 bu kadar rom yüklenince reboot sytem now diyoruz işlem bitmiş oluyor.
 
+![Uygulama Ekran Görüntüsü](https://github.com/onur5488/Merlinx-Android-13-Adb-Sideload-Rom-Installation-Guide-/blob/main/adb.PNG)

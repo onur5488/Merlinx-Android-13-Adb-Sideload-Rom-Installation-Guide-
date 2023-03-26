@@ -45,6 +45,12 @@ aşağıdaki komutlarını yazıp entera basıyoruz.
 
 
 ```
+adb devices
+```
 
 ```
+adb sideload ProjectElixir_3.4_merlinx-13.0-20221228-1840-OFFICIAL.zip
+```
+
+bu kadar rom yüklenince reboot sytem now diyoruz işlem bitmiş oluyor.
 

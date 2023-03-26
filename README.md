@@ -35,4 +35,16 @@ fastboot flash recovery crdroid_recovery.img
 fastboot boot crdroid_recovery.img
 
 ```
+5sn-10sn arası bekliyoruz açılırken ses açmaya basıp recovery ekranına geçmiş oluyoruz.
+
+recovery ekranında ilk önce factory reset yapıyoruz sonra advanced menüsü reboot recovery yapıyoruz. Telefonu pc ye bağlıyoruz.
+recovery ekranı gelince apply update kısmına tıklıyoruz .apply from adb ye tıklıyoruz.Minimal ADB and Fastboot aracını açıyoruz.
+
+aşağıdaki komutlarını yazıp entera basıyoruz.
+
+
+
+```
+
+```
 

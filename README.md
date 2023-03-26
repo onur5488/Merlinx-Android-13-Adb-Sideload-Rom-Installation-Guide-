@@ -58,5 +58,5 @@ bu kadar rom yüklenince reboot sytem now diyoruz işlem bitmiş oluyor.
 
 ![Uygulama Ekran Görüntüsü](https://github.com/onur5488/Merlinx-Android-13-Adb-Sideload-Rom-Installation-Guide-/blob/main/adb.PNG)
 
-![Uygulama Ekran Görüntüsü](https://www.hizliresim.com/pfcce0j)
+![Uygulama Ekran Görüntüsü](https://i.hizliresim.com/pfcce0j.PNG)
 
